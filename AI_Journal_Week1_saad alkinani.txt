@@ -1,0 +1,24 @@
+AI_Journal — Week 1
+
+What I did
+- Set up my repo and the AI_Journal file.
+- Downloaded and worked through INST326_Week1_Exercises.ipynb.
+- Ran each cell and kept the code simple.
+
+How I used AI 
+- Quick reminder on f-strings (printing money with {:.2f}).
+- Why input() returns a string and how to convert with int().
+- Double-check that .strip().lower() is good for case‑insensitive compares.
+Total time with AI: ~10 minutes.
+
+Links to my chats 
+- Week 1 notebook questions — https://chatgpt.com/share/68c6fb48-4814-800d-8740-7c442f9509a9
+- Short rounding + input() conversion check — https://chatgpt.com/share/68c6fb48-4814-800d-8740-7c442f9509a9
+
+What I learned
+- f-strings are the easiest for formatting; width like {title:30} lines things up.
+- .strip() before comparing strings helps; .lower() avoids case mistakes.
+- len() and type() are handy to see what I’m working with.
+
+Integrity note
+- I wrote the final code myself. AI was only for quick explanations and one tiny bug fix idea.
